@@ -1,0 +1,14 @@
+# Ree
+
+> Ree makes handmade crochet bags, made to order by hand. Orders are taken through Instagram messages.
+
+## Facts
+- Brand: Ree
+- Instagram: https://www.instagram.com/byree.eg (@byree.eg)
+- Each bag is handmade after the order, about 2 weeks.
+- Payment: 20% deposit by InstaPay before making.
+- Custom-made bags are available, made to the customer's own design.
+- Language of the site: Arabic (Egyptian).
+
+## Pages
+- https://byree-eg.github.io/ : the store page with the collection, videos, FAQ and how to order
