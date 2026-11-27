@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://byree-eg.github.io/sitemap.xml
